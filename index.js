@@ -1,4 +1,4 @@
-const testAddon = require('./build/Debug/testaddon.node');
+const testAddon = require('./build/Release/testaddon.node');
 
 console.log(testAddon.hello());
 
